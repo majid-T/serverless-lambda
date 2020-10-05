@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/majid-T/serverless-lambda#readme",
   "dependencies": {
+    "axios": "^0.20.0",
     "netlify-lambda": "^2.0.1"
   }
 }

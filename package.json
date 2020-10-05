@@ -1,0 +1,22 @@
+{
+  "name": "serverless-lambda",
+  "version": "1.0.0",
+  "description": "Exploring serverless stack using AWS Lambda",
+  "scripts": {
+    "lambda-serve": "netlify-lambda serve functions",
+    "lambda-build": "netlify-lambda build functions"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/majid-T/serverless-lambda.git"
+  },
+  "author": "Majid Shockoohi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/majid-T/serverless-lambda/issues"
+  },
+  "homepage": "https://github.com/majid-T/serverless-lambda#readme",
+  "dependencies": {
+    "netlify-lambda": "^2.0.1"
+  }
+}
